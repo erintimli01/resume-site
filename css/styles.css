@@ -1,0 +1,25 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.superimportant {
+  color:green;
+}
+
+.backgroundcolor {
+  background-color: bisque;
+}
+
+.fontdesc {
+  font-style: italic;
+}
+
+div {
+  background-color: aquamarine;
+  width: 50%;
+  width: 3400px;
+}
